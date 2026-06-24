@@ -495,7 +495,7 @@ section {
 .hero-h1 {
   font-family: var(--font-d);
   font-size: clamp(58px, 9vw, 134px);
-  line-height: 0.92;
+  line-height: 1.05;
   letter-spacing: 2px;
   color: var(--cream);
   animation: fadeUp 0.7s 0.1s ease both;
